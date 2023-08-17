@@ -1,0 +1,31 @@
+/* Eliminando margnes */
+
+h1,h2,h3{
+    margin: 0px;
+}
+
+.encabezado{
+min-width: 200px;
+}
+
+/*Permite trabajar con el section inicio*/
+.inicio{
+  
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nosotros{
+    height: 650px;
+
+   
+}
+
+.servicios{
+    height: 650px;
+}
+.contactenos{
+    height: 650px;
+}
